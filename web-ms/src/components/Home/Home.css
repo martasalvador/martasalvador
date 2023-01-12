@@ -13,17 +13,38 @@
 }
 
 .titles {
-font-size: larger;
-font-weight: 600;
+    font-size: 90px;
+    font-weight: 600;
 }
+
 
 .uxuiImage {
     object-fit: cover;
     height: 550px;
-    width: 350px;
+    width: 380px;
     border-radius: 180px;
-    box-shadow: 10px 10px 2px -1px rgba(248, 155, 41, 0.51 )
-    }
+    box-shadow: rgba(255, 122, 13, 0.384) 0px 54px 55px;
+}
 
+.eyeIcon {
+    height: 80px;
+    width: 80px;
+}
 
-  
+.thirdcolumn {
+    text-align: center;
+    font-weight: 400;
+    font-size: larger;
+    background-color: rgba(255, 0, 0, 0);
+}
+
+.text {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+}
+
+.hr {
+    margin-top: 80px;
+    width: 100px;
+}
