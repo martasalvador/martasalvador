@@ -1,0 +1,29 @@
+.firstSection {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    padding: 50px;
+}
+
+.secondSection {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    padding: 50px;
+}
+
+.titles {
+font-size: larger;
+font-weight: 600;
+}
+
+.uxuiImage {
+    object-fit: cover;
+    height: 550px;
+    width: 350px;
+    border-radius: 180px;
+    box-shadow: 10px 10px 2px -1px rgba(248, 155, 41, 0.51 )
+    }
+
+
+  
