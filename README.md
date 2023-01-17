@@ -3,22 +3,20 @@
 <h1 align="center">Hi 👋, I'm Marta Salvador</h1>
 <h3 align="center">Frontend Developer & UX/UI Designer!</h3>
 
-<p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=martasalvador3&show_icons=true&locale=en&layout=compact" alt="martasalvador" /></p>
-
-- 🔭 I’m currently working on my personal portfolio <!-- [slake.](https://github.com/3Ryuusei3/slake._client) -->
+- 🔭 I’m currently working on my personal Portfolio
 
 - 💕 I'm passionate about **Design**, **Film** & **Travel**
 
 - 🌱 I’m currently learning **SASS**
 
-- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/martasalvador)
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/martasalvadorberenguer)
 
 - 🌐 I speak **Spanish**, **English** and **Catalan**
 
 - 📫 Reach me at **martasbsv@gmail.com**
 
-<h3 align="left">Hard Skills:</h3>
-<p align="left">
+<h3 align="center">Skills:</h3>
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
