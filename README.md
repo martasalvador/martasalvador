@@ -1,9 +1,9 @@
-![MasterHead](https://e0.pxfuel.com/wallpapers/422/99/desktop-wallpaper-minimalism-code-and-mobile-background-minimalist-code.jpg)
+![MasterHead](https://res.cloudinary.com/dcycbjbne/image/upload/v1673961422/github/Estudio_de_Fotografi%CC%81a_Portada_de_Facebook_ejvaka.png)
 
-<h1 align="center">Hi 👋, I'm Marta Salvador</h1>
-<h3 align="center" margin-bottom="10px">Frontend Developer & UX/UI Designer!</h3>
+<h1 align="center">Hi 👋, I'm Marta</h1>
+<h3 align="center">Frontend Developer & UX/UI Designer!</h3>
 
-- 🔭 I’m currently working on my personal Portfolio
+- 🔭 I’m currently working on my personal portfolio
 
 - 💕 I'm passionate about **Design**, **Film** & **Travel**
 
@@ -16,7 +16,7 @@
 - 📫 Reach me at **martasbsv@gmail.com**
 
 <h3 align="center">Skills:</h3>
-<p align="center" padding="2px">
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
