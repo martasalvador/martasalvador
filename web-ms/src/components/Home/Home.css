@@ -13,21 +13,31 @@
 }
 
 .devTitle {
-    font-size: 90px;
-    font-weight: 600;
+    font-size: 150px;
+    font-weight: 400;
 }
 .uxuiTitle {
-    font-size: 90px;
-    font-weight: 600;
+    font-size: 150px;
+    font-weight: 400;
+    text-align: end;
+    margin-right: 200px;
 }
 
-.devImage {
+.dev1Image {
     object-fit: cover;
-    height: 550px;
-    width: 380px;
-    border-radius: 180px;
+    height: 700px;
+    width: 430px;
+    border-radius: 200px;
     box-shadow: rgba(255, 122, 13, 0.384) 0px 54px 55px;
 }
+.dev2Image {
+    object-fit: cover;
+    height: 350px;
+    width: 250px;
+    border-radius: 180px 180px 0px 180px;
+    box-shadow: rgba(255, 122, 13, 0.384) 0px 54px 55px;
+}
+
 .uxuiImage1 {
     object-fit: cover;
     margin-left: 100px;
@@ -50,9 +60,18 @@
     height: 80px;
     width: 80px;
     margin-top: 100px;
+    margin-bottom: 30px;
+
+}
+.devIcon {
+    height: 80px;
+    width: 80px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+
 }
 
-.thirdcolumn {
+.thirdColumn {
     text-align: center;
     font-weight: 400;
     font-size: larger;
@@ -62,11 +81,90 @@
 .designText {
     margin-top: 30px;
     margin-bottom: 10px;
+}
+
+.devText {
+    margin-bottom: 50px;
+    font-size: 23px;
+}
+
+.and {
+    text-align: center;
+    font-size: 200px;
+    font-weight: 100;
+}
+
+hr {
+    width: 40px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 
-.hr {
-    margin-top: 80px;
-    width: 100px;
-    
+.thirdColumn {
+    width: 500px;
+}
+
+.projectsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+
+.projectsImg {
+    object-fit: cover;
+    width: 350px;
+    height: 550px;
+    border-radius: 180px;
+    opacity: 0.6;
+}
+.projectsImg:hover {
+    box-shadow: rgba(0, 0, 0, 0.976) 0px 54px 55px;
+    opacity: 0.3;
+    color: black;
+}
+
+.myWorkTitle{
+    font-size: 150px;
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 400;
+}
+
+.divProject {
+    display: inline-block;
+    position: relative;
+    margin-bottom: 70px;
+    padding: 10px;
+}
+
+.projectText {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.skillsDiv {
+    display: flex;
+}
+
+.skills {
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.uxuiQuote {
+    text-align: center;
+    width: 400px;
+    margin-right: 0;
+}
+
+.thirdSection {
+    background-color: rgba(255, 115, 0, 0.164);
 }
