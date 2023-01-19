@@ -6,10 +6,7 @@ const Home = () => {
         <>
         <section className='firstSection'>
             <div>
-                <h1 className='devTitle'>Full Stack</h1>
-                <h1 className='devTitle'>Developer</h1>
-            </div>
-            <div>
+                <h1 className='devTitle'>Full Stack Developer</h1>
                 <img className='dev1Image' src="https://images.unsplash.com/photo-1630476387426-52c6e0b14e50?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="devImage" />
             </div>
             <div className='thirdColumn'>
@@ -50,23 +47,23 @@ const Home = () => {
                 <div className='projectsContainer'>
                     <div className='divProject'>
                         <p className='projectText'>BUBBLE HACK</p>
-                        <img className="projectsImg" src="https://res.cloudinary.com/dcycbjbne/image/upload/v1674130106/portfolio/Captura_de_Pantalla_2023-01-19_a_las_13.07.47_dtummt.png" alt="project" href="#"/>
+                        <img className="projectsImg" src="https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png" alt="project" href="#"/>
                     </div>
                     <div className='divProject'>
                         <p className='projectText'>HORIZONS</p>
-                        <img className="projectsImg" src="https://res.cloudinary.com/dcycbjbne/image/upload/v1674130457/portfolio/Captura_de_Pantalla_2023-01-19_a_las_13.14.07_vrfxvx.png" alt="project" href="#"/>
+                        <img className="projectsImg" src="https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png" alt="project" href="#"/>
                     </div>
                     <div className='divProject'>
                         <p className='projectText'>FRIGO</p>
-                        <img className="projectsImg" src="https://res.cloudinary.com/dcycbjbne/image/upload/v1674130385/portfolio/Captura_de_Pantalla_2023-01-19_a_las_13.12.54_ug5l0o.png" alt="project" href="#"/>
+                        <img className="projectsImg" src="https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png" alt="project" href="#"/>
                     </div>
                     <div className='divProject'>
                         <p className='projectText'>MAD PLAN</p>
-                        <img className="projectsImg" src="https://images.unsplash.com/photo-1578305698944-874fa44d04c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80" alt="project" href="#"/>
+                        <img className="projectsImg" src="https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png" alt="project" href="#"/>
                     </div>
                     <div className='divProject'>
                         <p className='projectText'>BUBBLE HACK</p>
-                        <img className="projectsImg" src="" alt="project" href="#"/>
+                        <img className="projectsImg" src="https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png" alt="project" href="#"/>
                     </div>
                     
                 </div>

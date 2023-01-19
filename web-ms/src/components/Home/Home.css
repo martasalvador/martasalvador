@@ -1,8 +1,19 @@
 .firstSection {
     display: flex;
     justify-content: space-between;
-    margin-top: 80px;
+    margin-top: 60px;
     padding: 50px;
+}
+
+.firstSection div:first-child {
+    position: relative;
+    width: 60%;
+    text-align: center;
+    padding-left: 100px;
+}
+
+.firstSection div:nth-child(2){
+    width: 40%;
 }
 
 .secondSection {
@@ -13,8 +24,12 @@
 }
 
 .devTitle {
-    font-size: 150px;
+    font-size: 140px;
     font-weight: 400;
+    max-width: 12ch;
+    position: absolute;
+    bottom: 0;
+    left: -10%;
 }
 .uxuiTitle {
     font-size: 150px;
@@ -27,6 +42,7 @@
     object-fit: cover;
     height: 700px;
     width: 430px;
+    margin-left: 100px;
     border-radius: 200px;
     box-shadow: rgba(255, 122, 13, 0.384) 0px 54px 55px;
 }
@@ -110,6 +126,7 @@ hr {
     display: flex;
     justify-content: space-evenly;
     padding: 40px;
+    overflow-x: hidden;
 }
 
 .projectsImg {

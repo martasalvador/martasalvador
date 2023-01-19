@@ -1,15 +1,17 @@
-import { Container } from "react-bootstrap"
+
 import Navigation from "../../components/Navigation/Navigation"
 import Home from "../../components/Home/Home"
+import Footer from "../../components/Footer/Footer"
 
 
 const HomePage = () => {
 
     return (
-        <Container className="homePage">
-            <Navigation />
+        <>
+        <Navigation />
             <Home />
-        </Container>
+            <Footer />
+        </>
     )
 }
 
