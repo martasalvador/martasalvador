@@ -7,7 +7,7 @@
 
 - 💕 I'm passionate about **Design**, **Film** & **Travel**
 
-- 🌱 I’m currently learning **SASS**
+- 🌱 I’m currently learning **SASS** & **Typescript**
 
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/martasalvadorberenguer)
 
