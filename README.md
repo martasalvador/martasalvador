@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Marta</h1>
 <h3 align="center">Frontend Developer & UX/UI Designer!</h3>
 
+<p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=martasalvador&show_icons=true&locale=en&layout=compact" alt="martasalvador" /></p>
+
 - 🔭 I’m currently working on my personal portfolio
 
 - 💕 I'm passionate about **Design**, **Film** & **Travel**
