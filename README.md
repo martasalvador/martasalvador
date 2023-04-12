@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Marta</h1>
 <h3 align="center">Frontend Developer & UX/UI Designer!</h3>
 
-<p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=martasalvador&show_icons=true&locale=en&layout=compact" alt="martasalvador" /></p>
 
 - 🔭 I’m currently working on my personal portfolio
 
@@ -32,3 +31,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://zeplin.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/> </a>
 <a href="https://www.gitbook.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitbook/gitbook-icon.svg" alt="gitbook" width="40" height="40"/> </a>
+  
+  
+ <p><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martasalvador&show_icons=true&locale=en&layout=compact" alt="martasalvador" /></p>
